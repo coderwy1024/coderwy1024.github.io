@@ -1,24 +1,27 @@
-# web前端个人简历
+# web 前端个人简历
 
 #### 介绍
-web前端个人简历：一个追梦在前端路上的小白
+
+web 前端个人简历：一个追梦在前端路上的小白
 
 #### 相关技术
-- particles.js粒子插件
-- Handlebars.js模板引擎
 
+- particles.js 粒子插件
+- Handlebars.js 模板引擎
 
 #### 在线预览
-[web前端个人简历：一个追梦在前端路上的小白](http://wttandroid.gitee.io/wttandroid.github.io/)
+
+[web 前端个人简历：一个追梦在前端路上的小白](https://coderwy1024.github.io/resume/)
 
 #### 使用说明
-1.  修改src/config.js内容作为配置文件
+
+1.  修改 src/config.js 内容作为配置文件
 
 ```
 export default {
   // 首页部分
   page1: {
-    titleEn:'Hello,I`m WeiTingting', //英文标题
+    titleEn:'Hello,I`m WeiYi', //英文标题
     title: '一个追梦在前端路上的小白',//中文标题
   },
   // About Me部分
@@ -75,12 +78,4 @@ export default {
 }
 ```
 
-2.  运行index.html文件访问本地服务  (！！注意：因为file跨域问题，本地运行必须以服务器方式启动项目！)
-
-
-
-### 截图预览
-
-![首页](https://images.gitee.com/uploads/images/2020/0722/194832_8b05a480_5641265.png "1.png")![About Me](https://images.gitee.com/uploads/images/2020/0722/194851_9fc98b82_5641265.png "2.png")![My Services](https://images.gitee.com/uploads/images/2020/0722/194909_f35f4738_5641265.png "3.png")![My Mastering](https://images.gitee.com/uploads/images/2020/0722/195119_1e54b805_5641265.png "4.png")![My Production](https://images.gitee.com/uploads/images/2020/0722/194926_268983f1_5641265.png "5.png")![结尾页](https://images.gitee.com/uploads/images/2020/0722/194947_d623e840_5641265.png "6.png")
-
-
+2.  运行 index.html 文件访问本地服务 (！！注意：因为 file 跨域问题，本地运行必须以服务器方式启动项目！)
